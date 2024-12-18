@@ -1,12 +1,12 @@
 # Data Scientist
 
-###Education
+### Education
 Physics
 
-###Work Experience
+### Work Experience
 Data Scient and bla bla bla
 
-###Education
+### Education
 Bla bla bla Condé
 
 # yvain5.github.io
