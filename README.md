@@ -1,12 +1,14 @@
-# Data Scientist
+# Yvain Audéon
 
 ### Education
-Physics
+Art
 
 ### Work Experience
-Data Scient and bla bla bla
+Anime PV Teaser
+Nina&Yuri
 
 ### Education
-Bla bla bla Condé
+Condé
+UCO Laval
 
-# yvain5.github.io
+Website in progress
